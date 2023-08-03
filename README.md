@@ -5,8 +5,9 @@
 :soccer: <a href="https://lucasn5.github.io/NLW-Copa/"> Projeto disponível aqui</a> ⚽
 
 <h2>Versão Desktop </h2>
-![Readme1-NLW-Copa](https://github.com/LucasN5/NLW-Copa/assets/88800411/02a55f18-aea9-480e-8a38-aa61a0632095)
+
+![Readme1-NLW-Copa](https://github.com/LucasN5/NLW-Copa/assets/88800411/7b064bc8-fd38-4781-90f4-3b67ad830d1a)
 
 <h2>Versão Mobile</h2>
-![Readme2-NLW-Copa](https://github.com/LucasN5/NLW-Copa/assets/88800411/7ec44c54-ac4b-403d-8958-5892e4182ff2)
 
+![Readme2-NLW-Copa](https://github.com/LucasN5/NLW-Copa/assets/88800411/756dd7bb-6ffa-4dce-9fc1-834cdf3af560)
