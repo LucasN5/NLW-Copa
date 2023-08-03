@@ -13,4 +13,4 @@
 ![Readme2-NLW-Copa](https://github.com/LucasN5/NLW-Copa/assets/88800411/756dd7bb-6ffa-4dce-9fc1-834cdf3af560)
 
 
-<img src="![Readme2-NLW-Copa](https://github.com/LucasN5/NLW-Copa/assets/88800411/756dd7bb-6ffa-4dce-9fc1-834cdf3af560)"> </img>
+
