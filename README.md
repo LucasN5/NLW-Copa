@@ -7,7 +7,7 @@
 <h2>Versão Desktop </h2>
 ![Readme1-NLW-Copa](https://github.com/LucasN5/NLW-Copa/assets/88800411/02a55f18-aea9-480e-8a38-aa61a0632095)
 <br>
-
+</br>
 <h2>Versão Mobile</h2>
 ![Readme2-NLW-Copa](https://github.com/LucasN5/NLW-Copa/assets/88800411/7ec44c54-ac4b-403d-8958-5892e4182ff2)
 
